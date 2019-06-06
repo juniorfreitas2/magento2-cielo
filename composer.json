@@ -6,7 +6,7 @@
         "developercielo/api-3.0-php": "dev-master",
         "magento/module-payment": "100.1.*",
         "magento/module-checkout": "100.1.*",
-        "magento/module-sales": "100.1.*"
+        "magento/module-sales": "100.1.*|~102.0.0"
     },
     "type": "magento2-module",
     "version": "1.0.0",
